@@ -1,0 +1,47 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{background:url(images/11-0331_Background_Image_Repeat.jpg) repeat-x;
+	margin:0 auto;
+}
+
+.container{
+	text-align:center;
+	position:relative;
+	height:1612px;
+	width:1300px;
+	margin:0 auto;
+	display:block;
+	background: url(images/11-0331_Website_v1_page1_a.jpeg) no-repeat;
+}
+
+.container2{
+	text-align:center;
+	position:relative;
+	height:1612px;
+	width:1300px;
+	margin:0 auto;
+	display:block;
+	background: url(images/11-0331_Website_v1_page2_a.jpeg) no-repeat;
+}
+
+.footer{
+	margin: 0 auto;
+	height: 110px;
+	background: url(images/bg_footer.jpg) repeat-x;
+}
+..site-map ul{
+	width:75px;
+	height:70px;
+	margin:0 0 0 8px;
+	padding:0;
+	padding-left:8px;
+	border-left:1px solid #fff;
+	list-style:none;
+	font: 12px Verdana, Geneva, sans-serif;
+	color: #FFF;
+	}
+.site-map li a{
+	text-decoration:none;
+	color:#FFF;
+	}
