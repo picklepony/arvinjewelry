@@ -30,7 +30,9 @@ body{background:url(images/11-0331_Background_Image_Repeat.jpg) repeat-x;
 	height: 110px;
 	background: url(images/bg_footer.jpg) repeat-x;
 }
-..site-map ul{
+.site-map ul{
+	float:right;
+	display:inline-block;
 	width:75px;
 	height:70px;
 	margin:0 0 0 8px;
@@ -44,4 +46,12 @@ body{background:url(images/11-0331_Background_Image_Repeat.jpg) repeat-x;
 .site-map li a{
 	text-decoration:none;
 	color:#FFF;
+	}
+	
+	
+.social-links{
+	float:right;
+	display:inline-block;
+	width:75px;
+	height:70px;
 	}
